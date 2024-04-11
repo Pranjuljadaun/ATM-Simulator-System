@@ -1,0 +1,12 @@
+
+‰
+java:S1192"HDefine a constant instead of duplicating this literal "Raleway" 8 times.(é‰å­üÿÿÿÿJ$debd7c54-8e4b-4690-b720-a6698a736b2b
+‰	java:S116
+"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¹»J$51c05f4f-d1d0-404c-b92a-996263426525
+z
+java:S1659
+"?Declare "b2" and all following declarations on a separate line.(¹¹»J$f5c0e612-1b1d-4796-8c1a-f439a6f11897
+s
+java:S1854l"7Remove this useless assignment to local variable "num".(ƒ“ÿJ$6f7cf4c0-493a-4a61-a8fa-270cc4187518
+d
+java:S1481l"(Remove this unused "num" local variable.(ƒ“ÿJ$0d447b4f-910d-4910-81ef-ff4900418f94

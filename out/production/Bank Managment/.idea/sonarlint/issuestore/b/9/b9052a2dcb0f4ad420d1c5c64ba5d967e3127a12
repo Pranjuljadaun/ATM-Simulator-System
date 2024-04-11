@@ -1,0 +1,15 @@
+
+‡
+java:S1192"FDefine a constant instead of duplicating this literal "Arial" 5 times.(èÂ½ìıÿÿÿÿJ$026ffe6f-d4fd-4892-8fdb-8da02b570565
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŞÙñ ûÿÿÿÿJ$b9077a60-0418-46be-aeb7-d9f428c22f57
+Œ	java:S116"QRename this field "SignIn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åîäJ$2569ec12-2291-4ee5-b11f-18bbe463b1ff
+‹	java:S116"PRename this field "Clear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åîäJ$e0a57781-d1a2-43e9-a21c-38b61096d7df
+Œ	java:S116"QRename this field "SignUp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åîäJ$f0e6f470-c1bd-476b-90c2-494a13a3ec18
+~
+java:S1659
+"CDeclare "label2" and all following declarations on a separate line.(¤¿ÅJJ$a84a8830-5a0c-43bb-96ba-bdae11bfd0cd
+~
+java:S1659"BDeclare "Clear" and all following declarations on a separate line.(åîäJ$12226ea9-9b94-4156-9703-9a6f76e5235a
+|	java:S125O"<This block of commented-out lines of code should be removed.(ØÍÈãÿÿÿÿÿJ$7649adaf-76ca-4465-af44-ddf705a211a3
+p
+java:S1874["/Remove this use of "getText"; it is deprecated.(´“‰ÔøÿÿÿÿJ$0f5c3d34-3130-4fcd-8d8e-e8100ca79571

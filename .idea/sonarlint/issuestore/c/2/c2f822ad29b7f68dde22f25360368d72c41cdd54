@@ -1,0 +1,20 @@
+
+…
+java:S1192"IDefine a constant instead of duplicating this literal "Raleway" 26 times.(”«°½J$99a247b8-33c8-4638-b203-02279090b15d
+’	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡è’àûÿÿÿÿJ$5b3a43bd-bd06-4371-9d8b-6c3dd1f1eecb
+	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔŠå±J$92dd05de-b1aa-49e6-9950-a4e4417ca75b
+€
+java:S1659	"DDeclare "current" and all following declarations on a separate line.(¶¶ñJ$9011d6ec-c697-4c74-8562-93be7be01525
+€
+java:S1659
+"?Declare "c2" and all following declarations on a separate line.(¢—ÇøÿÿÿÿJ$c2d63dee-8e5d-499b-a1f3-916ef47c80d9
+`
+java:S1659"$Declare "cancel" on a separate line.(¡ËÌJ$caac4513-ba8c-40c4-bcc4-8a2bd9170966
+”
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼ ÒşüÿÿÿÿJ$3c150f68-6cbf-4306-ab86-049e2a0e119f
+[
+java:S2119¼"Save and re-use this "Random".(¸Í×J$57e5d10d-c446-4757-9f93-fc0381dff0e9
+y
+java:S3972Õ"7Move this "if" to a new line or add the missing "else".(™êğœüÿÿÿÿJ$08959327-a18e-4509-ac6b-0beb968bf85d
+s
+java:S1117İ"6Rename "c1" which hides the field declared at line 10.(Ò²ÎµJ$718aaa9d-e7fd-473a-a7aa-2b6ccfa5cd56
