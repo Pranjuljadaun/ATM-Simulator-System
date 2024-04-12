@@ -72,6 +72,7 @@ public class MiniStatement extends JFrame implements ActionListener {
         setSize(400, 550);
         setLocation(920, 150);
         setLayout(null);
+        setUndecorated(true);
         setVisible(true);
     }
 
