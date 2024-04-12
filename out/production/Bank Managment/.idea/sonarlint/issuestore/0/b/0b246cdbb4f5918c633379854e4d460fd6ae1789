@@ -1,12 +1,0 @@
-
-‰
-java:S1192("HDefine a constant instead of duplicating this literal "Raleway" 3 times.(©ó°èûÿÿÿÿJ$ebf3efaa-f55e-4313-8fe9-553f7012405b
-U
-java:S1700"Rename field "Withdrawal"(¡Ø¥ÀJ$18f3876f-1429-4408-a818-398c65e6e4d8
-	java:S116"URename this field "Withdrawal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ø¥ÀJ$cb229b62-a2ee-4182-9c2e-4269c29609ab
-Š	java:S116"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ø¥ÀJ$9f416b90-5355-4fac-9f13-e2e869efb268
-^
-java:S1659""Declare "Back" on a separate line.(¡Ø¥ÀJ$eefd828c-9289-4a33-9a05-df92981e86dd
-“
-java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼ ÒşüÿÿÿÿJ$8197d20b-e757-4945-8769-c156b6693e4a
-i	java:S108`")Either remove or fill this block of code.(µ’ê¸úÿÿÿÿJ$09144923-e98a-453b-b894-c89955de2d71
