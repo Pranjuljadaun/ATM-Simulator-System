@@ -1,13 +1,13 @@
 
 Ñ
-java:S1192"HDefine a constant instead of duplicating this literal "Raleway" 8 times.(ª±Á»J$00d7b9d5-e31c-47cb-8058-d32f5c25760e
-à	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»≥ÆäJ$0c91cca3-a391-409d-9b7e-8b69356047ce
-ç	java:S116	"RRename this field "Deposit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$2ca1b401-57d0-42b0-8117-cbd48d1f469b
-ä	java:S116	"ORename this field "Cash" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$e686215d-2f1f-4ee4-a11c-eb9d6f1cd385
-ä	java:S116	"ORename this field "Fast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$86c0567c-4f50-49f2-b18f-153bfda82e42
-ã	java:S116	"PRename this field "MiniS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$2a6c05f6-1838-4bc0-b01f-eece52b26caa
-ä	java:S116	"ORename this field "PinC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$a5886952-6fe1-41ba-95ab-24a3d198b0ba
-ç	java:S116	"RRename this field "Balance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$9ad0fc01-accc-4422-9526-5bb25ca91ea5
-ä	java:S116	"ORename this field "Exit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$5e0b3002-4209-48af-8ff4-589d583b56f6
+java:S1192"HDefine a constant instead of duplicating this literal "Raleway" 8 times.(ª±Á»J$48870b82-2b48-4f83-b6ae-1b6db5d06e5e
+à	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»≥ÆäJ$81165417-cb3a-4788-8044-9263d35b4e64
+ç	java:S116	"RRename this field "Deposit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$9fe56a42-630d-4ba3-8f7a-d6cb958f6931
+ä	java:S116	"ORename this field "Cash" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$a2ad6ff4-151f-4683-90d9-6c6c0e1b17f9
+ä	java:S116	"ORename this field "Fast" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$877f5c0f-184b-4da8-9117-f28eb43bda63
+ã	java:S116	"PRename this field "MiniS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$d34fa56e-474d-4e4c-a57f-1546fa38b122
+ä	java:S116	"ORename this field "PinC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$a770719f-7245-462c-b5d1-e1539cffa5f1
+ç	java:S116	"RRename this field "Balance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$b2eebb82-6a5b-463e-a8ca-6b8e4aa1b091
+ä	java:S116	"ORename this field "Exit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙ¨ÙJ$f53b733d-dd01-4f50-a3de-40ba0f6c053e
 }
-java:S1659	"ADeclare "Cash" and all following declarations on a separate line.(ßÙ¨ÙJ$3e2cb7a6-ce79-4c37-9820-d193d41d150f
+java:S1659	"ADeclare "Cash" and all following declarations on a separate line.(ßÙ¨ÙJ$58e0f211-ee16-43a7-a185-fe8d218d5cba
