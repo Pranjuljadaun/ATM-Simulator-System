@@ -1,13 +1,13 @@
 
 ‰
-java:S1192"HDefine a constant instead of duplicating this literal "Raleway" 3 times.(©ó°èûÿÿÿÿJ$4f2a7468-56ee-4bea-804f-0aee0c493b69
+java:S1192"HDefine a constant instead of duplicating this literal "Raleway" 3 times.(©ó°èûÿÿÿÿJ$0bfea63e-fe6d-42d3-9b9b-2746a44b6a18
 R
 java:S1700
-"Rename field "Deposit"(¾ÃïJ$c2196526-18ca-4dad-868a-e12e6c20ebd7
+"Rename field "Deposit"(¾ÃïJ$6e78f6f9-197b-490c-bb8d-a98a2c3d9b9a
 	java:S116
-"RRename this field "Deposit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÃïJ$0185e195-7582-40bc-aadc-ea4d9142565d
+"RRename this field "Deposit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÃïJ$5300c40f-ce5a-4bf7-8da7-fb00e8cf958d
 Š	java:S116
-"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÃïJ$3e017482-97ff-45bc-8553-538accdb550b
+"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÃïJ$334f16ce-3499-41c6-beea-b38e2d79d171
 ^
 java:S1659
-""Declare "Back" on a separate line.(¾ÃïJ$c947942c-51b3-41d4-98ad-4c2301e92577
+""Declare "Back" on a separate line.(¾ÃïJ$9f5522cd-8fcc-4716-ac34-35e2e230ff32
