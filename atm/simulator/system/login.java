@@ -76,7 +76,7 @@ public class login extends JFrame implements ActionListener {
         getContentPane().setBackground(new Color(245, 245, 245));
         setSize(850,540);
         setLocation(400, 230);
-        //setUndecorated(true);
+        setUndecorated(true);
         setVisible(true);
     }
 

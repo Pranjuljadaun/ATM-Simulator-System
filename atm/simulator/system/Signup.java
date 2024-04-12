@@ -198,6 +198,7 @@ public class Signup extends JFrame implements ActionListener {
         setLayout(null);
         setSize(850, 800);
         setLocation(360, 40);
+        setUndecorated(true);
         setVisible(true);
 
     }
@@ -232,6 +233,10 @@ public class Signup extends JFrame implements ActionListener {
         try {
             // Validate Date of Birth
             Date dobDate = dateChooser.getDate();
+            if (dobDate == null) {
+                JOptionPane.showMessageDialog(null, "Please fill all fields");
+                return;
+            }
             Date currentDate = new Date();
             long ageDifferenceInMillis = currentDate.getTime() - dobDate.getTime();
             long age = ageDifferenceInMillis / (1000L * 60 * 60 * 24 * 365);

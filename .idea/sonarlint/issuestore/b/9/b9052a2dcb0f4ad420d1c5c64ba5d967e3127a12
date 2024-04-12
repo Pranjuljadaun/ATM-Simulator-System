@@ -1,15 +1,14 @@
 
 ‡
-java:S1192"FDefine a constant instead of duplicating this literal "Arial" 5 times.(èÂ½ìıÿÿÿÿJ$026ffe6f-d4fd-4892-8fdb-8da02b570565
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŞÙñ ûÿÿÿÿJ$b9077a60-0418-46be-aeb7-d9f428c22f57
-Œ	java:S116"QRename this field "SignIn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åîäJ$2569ec12-2291-4ee5-b11f-18bbe463b1ff
-‹	java:S116"PRename this field "Clear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åîäJ$e0a57781-d1a2-43e9-a21c-38b61096d7df
-Œ	java:S116"QRename this field "SignUp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åîäJ$f0e6f470-c1bd-476b-90c2-494a13a3ec18
+java:S1192"FDefine a constant instead of duplicating this literal "Arial" 5 times.(èÂ½ìıÿÿÿÿJ$236948da-7db8-4dde-b06a-4fe8c7b6bbe9
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŞÙñ ûÿÿÿÿJ$7b51c880-8a61-481c-9264-b2ed25fb8d73
+Œ	java:S116"QRename this field "SignIn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åîäJ$627c8384-da99-48be-96ba-7faa1cc887bf
+‹	java:S116"PRename this field "Clear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åîäJ$c20f9d0d-5f9e-4a0d-9020-33f140a8f308
+Œ	java:S116"QRename this field "SignUp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åîäJ$812a199c-55ba-4115-bdeb-7f4516665dbe
 ~
 java:S1659
-"CDeclare "label2" and all following declarations on a separate line.(¤¿ÅJJ$a84a8830-5a0c-43bb-96ba-bdae11bfd0cd
+"CDeclare "label2" and all following declarations on a separate line.(¤¿ÅJJ$6dbbf264-e2a6-49fc-bc9b-44d43af01635
 ~
-java:S1659"BDeclare "Clear" and all following declarations on a separate line.(åîäJ$12226ea9-9b94-4156-9703-9a6f76e5235a
-|	java:S125O"<This block of commented-out lines of code should be removed.(ØÍÈãÿÿÿÿÿJ$7649adaf-76ca-4465-af44-ddf705a211a3
+java:S1659"BDeclare "Clear" and all following declarations on a separate line.(åîäJ$2f2f01f7-6305-47e2-a26a-8751afff13ed
 p
-java:S1874["/Remove this use of "getText"; it is deprecated.(´“‰ÔøÿÿÿÿJ$0f5c3d34-3130-4fcd-8d8e-e8100ca79571
+java:S1874["/Remove this use of "getText"; it is deprecated.(´“‰ÔøÿÿÿÿJ$a6d47225-ff9c-41dd-b819-9d4d50e25a2b

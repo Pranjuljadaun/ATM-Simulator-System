@@ -168,6 +168,7 @@ public class Signup3 extends JFrame implements ActionListener {
         setLocation(400, 20);
         setLayout(null);
         getContentPane().setBackground(new Color(215, 252, 252));
+        setUndecorated(true);
         setVisible(true);
 
     }
