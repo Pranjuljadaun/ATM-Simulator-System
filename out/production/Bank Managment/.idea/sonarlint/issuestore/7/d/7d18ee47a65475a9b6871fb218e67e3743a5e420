@@ -1,19 +1,0 @@
-
-‘
-java:S1192"IDefine a constant instead of duplicating this literal "Raleway" 25 times.(¦¨ñşÿÿÿÿ8Øš¤Ší1J$a81d614e-47b2-4954-88f3-be9cce227c19
-˜	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šşãİıÿÿÿÿ8Úš¤Ší1J$20c22795-02a1-489e-bbcf-a6ee712a52ac
-’	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿèÕ8Úš¤Ší1J$80b5bd52-f7e1-4815-b897-e1e80b865e53
-’	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”„‚G8Ûš¤Ší1J$908d22ed-9221-44d9-b0d3-fbe15a2863e7
-˜	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¤ÿñúÿÿÿÿ8Ûš¤Ší1J$ec175820-f1fd-48a8-8cae-8f71d37e045f
-™	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¤±—ûÿÿÿÿ8Ûš¤Ší1J$301f8ef9-df4b-48d8-96e7-f06944f17780
-”	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†š÷Ô8Ûš¤Ší1J$bdf88158-78f2-4149-883c-e3d67d0d42d3
-™	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦øƒúÿÿÿÿ8Ûš¤Ší1J$0a2b0f0d-5e1f-4a32-9aa9-2382d17f60d3
-”	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¦Ì8Ûš¤Ší1J$379fc13d-be17-47c2-8a17-c1546eb31f48
-™	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä©ô’ûÿÿÿÿ8Ûš¤Ší1J$a2cb5fd7-f98c-4283-8b47-415655c9d8b2
-”	java:S116"RRename this field "Married" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â8¡›¤Ší1J$a1237744-5b3f-4178-ac31-af6dbcdc504c
-–	java:S116"TRename this field "Unmarried" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â8¡›¤Ší1J$3af3d62d-1422-40e8-85c7-17870aa3ba70
-“	java:S116"QRename this field "Others" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â8¡›¤Ší1J$df06b666-ee30-421a-a1a8-7b8327c2a8ba
-†
-java:S1659"CDeclare "female" and all following declarations on a separate line.(â8Ã›¤Ší1J$f56fe087-a96d-4947-9733-c6d236b3049f
-
-java:S1659"FDeclare "textFname" and all following declarations on a separate line.(©İÂäøÿÿÿÿ8Ä›¤Ší1J$5247b220-6289-41be-ae6f-e1bcb6687314
