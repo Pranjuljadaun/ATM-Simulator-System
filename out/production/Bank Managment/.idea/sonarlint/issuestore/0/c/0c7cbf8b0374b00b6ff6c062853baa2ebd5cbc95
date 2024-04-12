@@ -1,0 +1,13 @@
+
+Š
+java:S1192d"NDefine a constant instead of duplicating this literal "' where pin='" 3 times.(¨å¶®J$02d3e8f3-0d3f-4492-aad4-eb471ef5d7e8
+ƒ
+java:S1192"GDefine a constant instead of duplicating this literal "System" 5 times.(¶‹J$363eee6b-bcbf-4b11-b133-c61c0523904e
+‘	java:S116"QRename this field "Change" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Í¯ıøÿÿÿÿJ$601b9de3-6b80-47e0-b825-a0fd3434a721
+	java:S116"ORename this field "Back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Í¯ıøÿÿÿÿJ$11f0023d-f938-49a5-9aea-2867ef79d276
+c
+java:S1659""Declare "Back" on a separate line.(‰Í¯ıøÿÿÿÿJ$90c3c82c-6f2e-4638-adfe-fc29b67d6523
+\
+java:S1659	" Declare "p2" on a separate line.(‚—úğJ$566bb6ff-498f-4f6f-841e-21392a2cca9d
+s
+java:S3972["7Move this "if" to a new line or add the missing "else".(ì¯ˆÒJ$c2e723ee-6ac4-4985-81b6-b5594005eb32
